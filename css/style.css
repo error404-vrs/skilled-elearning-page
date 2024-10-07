@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+
+*{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    box-sizing: border-box;
+}
+
+main {
+  width: 64%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.header{
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+}
+
+.started-button-class {
+  justify-content: center;
+  align-items: center;
+  padding: 16px 32px;
+  background: #13183f;
+  border-radius: 28px;
+}
+
+.get-started {
+  color: white;
+  text-decoration: none;
+}
+
+
+.presentation-document {
+  margin-top: 16px;
+  width: 70%;
+}
+
+.Maximize-skill {
+  margin-top: 16%;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 56px;
+  color: #13183f;
+}
+
+.courses {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  color: #83869a;
+  margin-bottom: 40px;
+}
+
+.button-started-orange {
+  justify-content: center;
+  align-items: center;
+  padding: 16px 32px;
+  background: linear-gradient(180deg, #ff6f48 0%, #f02aa6 100%);
+  border-radius: 28px;
+  color: white;
+  text-decoration: none;
+  margin-top: 40px;
+}
+
+.content{
+    display: flex;
+    padding-top: 136px;
+}
+
+.categories-top{
+
+}
+
+.check-out{
+    background: linear-gradient(45deg,  #ff6f48 0%, #f02aa6);
+    box-shadow: 5px 5px 5px 5px #888;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+}
